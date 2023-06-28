@@ -24,7 +24,7 @@ education:
       institution: The University of Oxford
       year: ""
     - course: MSc in Mathematics and Computer Science
-      year: 2023
+      year: ""
       institution: The University of Oxford
 superuser: true
 status:
