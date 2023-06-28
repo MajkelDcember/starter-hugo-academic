@@ -20,10 +20,10 @@ organizations:
   - name: The university of Oxford
 education:
   courses:
-    - course: "BSc in Mathematics and Statistics "
+    - course: "BSc in Mathematics and Statistics, 2020-2023 "
       institution: The University of Oxford
       year: ""
-    - course: MSc in Mathematics and Computer Science
+    - course: MSc in Mathematics and Computer Science, 2023-Present
       year: ""
       institution: The University of Oxford
 superuser: true
