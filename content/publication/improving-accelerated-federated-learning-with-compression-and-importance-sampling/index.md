@@ -7,6 +7,7 @@ authors:
   - Michał Grudzień
   - Grigory Malinovsky
   - Peter Richtárik
+publication: https://arxiv.org/pdf/2306.03240.pdf
 abstract: "Federated Learning is a collaborative training framework that
   leverages heterogeneous data distributed across a vast number of clients.
   Since it is practically infeasible to request and process all clients during
