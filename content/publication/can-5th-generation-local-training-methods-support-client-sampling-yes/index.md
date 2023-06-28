@@ -10,6 +10,7 @@ authors:
 doi: ""
 publication: Proceedings of The 26th International Conference on Artificial
   Intelligence and Statistics
+publication_short: https://proceedings.mlr.press/v206/grudzien23a/grudzien23a.pdf
 abstract: "he celebrated FedAvg algorithm of McMahan et al.(2017) is based on
   three components: client sampling (CS), data sampling (DS) and local training
   (LT). While the first two are reasonably well understood, the third component,
@@ -31,6 +32,8 @@ abstract: "he celebrated FedAvg algorithm of McMahan et al.(2017) is based on
   foundations."
 draft: false
 featured: false
+tags:
+  - https://proceedings.mlr.press/v206/grudzien23a/grudzien23a.pdf
 image:
   filename: ""
   focal_point: ""
