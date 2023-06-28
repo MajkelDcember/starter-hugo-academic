@@ -7,7 +7,11 @@ authors:
   - Michał Grudzień
   - Grigory Malinovsky
   - Peter Richtarik
-doi: ""
+doi: "@inproceedings{grudzien2023can,   title={Can 5th Generation Local Training
+  Methods Support Client Sampling? Yes!},   author={Grudzie{\\'n}, Micha{\\l}
+  and Malinovsky, Grigory and Richt{\\'a}rik, Peter},   booktitle={International
+  Conference on Artificial Intelligence and
+  Statistics},   pages={1055--1092},   year={2023},   organization={PMLR} }"
 publication: Proceedings of The 26th International Conference on Artificial
   Intelligence and Statistics
 abstract: "he celebrated FedAvg algorithm of McMahan et al.(2017) is based on
