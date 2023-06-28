@@ -1,7 +1,6 @@
 ---
 title: Michał Grudzień
-role: Master's Student in Mathematics and Computer Science at the University of
-  Oxford
+role: Master's Student in Mathematics and Computer Science
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -19,7 +18,6 @@ social:
     link: https://www.linkedin.com/in/micha%C5%82-grudzie%C5%84-2141a2198
 organizations:
   - name: The university of Oxford
-  - name: KAUST
 education:
   courses:
     - course: "BSc in Mathematics and Statistics "
