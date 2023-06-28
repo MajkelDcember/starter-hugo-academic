@@ -1,6 +1,7 @@
 ---
 title: Michał Grudzień
-role: Professor of Artificial Intelligence
+role: Master's Student in Mathematics and Computer Science at the University of
+  Oxford
 avatar_filename: zdjecie.jpeg
 bio: ""
 interests:
