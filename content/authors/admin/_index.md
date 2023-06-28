@@ -16,9 +16,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: linkedin.com/in/michał-grudzień-2141a2198
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 organizations:
   - name: The university of Oxford
   - name: KAUST
