@@ -2,7 +2,7 @@
 title: Michał Grudzień
 role: Master's Student in Mathematics and Computer Science at the University of
   Oxford
-avatar_filename: zdjecie.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Optimization
