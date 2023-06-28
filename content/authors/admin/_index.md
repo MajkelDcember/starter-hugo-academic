@@ -22,9 +22,9 @@ education:
   courses:
     - course: "BSc in Mathematics and Statistics "
       institution: The University of Oxford
-      year: "2020-2023"
+      year: ""
     - course: MSc in Mathematics and Computer Science
-      year: "2023-Present"
+      year: ""
       institution: The University of Oxford
 superuser: true
 status:
