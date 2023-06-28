@@ -16,7 +16,7 @@ social:
     link: https://github.com/MajkelDcember
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/michał-grudzień-2141a2198
+    link: https://www.linkedin.com/in/micha%C5%82-grudzie%C5%84-2141a2198
 organizations:
   - name: The university of Oxford
   - name: KAUST
