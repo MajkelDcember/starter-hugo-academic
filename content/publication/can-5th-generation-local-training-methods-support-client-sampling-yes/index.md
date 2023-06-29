@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Michał Grudzień
   - Grigory Malinovsky
-  - Peter Richtarik
+  - Peter Richtárik
 doi: ""
 publication: Proceedings of The 26th International Conference on Artificial
   Intelligence and Statistics
