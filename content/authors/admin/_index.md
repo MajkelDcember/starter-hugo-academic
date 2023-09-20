@@ -34,4 +34,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am currently pursuing a master's degree in Mathematics and Computer Science at the University of Oxford. Prior to this, I successfully completed a course in Mathematics and Statistics at the University of Oxford at the bachelor's level. I have a strong mathematical background and a keen interest in optimization for machine learning.
+I am currently pursuing a master's degree in Mathematics and Computer Science at the University of Oxford. Prior to this, I successfully completed a degree in Mathematics and Statistics at the University of Oxford at the bachelor's level. I have a strong mathematical background and a keen interest in optimization for machine learning.
