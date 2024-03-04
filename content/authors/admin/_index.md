@@ -4,6 +4,7 @@ bio: ""
 interests:
   - Optimization
   - Reinforcement Learning
+  - Federated Learning
 social:
   - icon: graduation-cap
     icon_pack: fas
