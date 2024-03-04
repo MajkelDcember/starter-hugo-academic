@@ -1,5 +1,5 @@
 ---
-avatar_filename: avarat.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Optimization
