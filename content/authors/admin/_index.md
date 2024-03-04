@@ -1,7 +1,5 @@
 ---
-title: Michał Grudzień
-role: Master's Student in Mathematics and Computer Science
-avatar_filename: avatar.jpg
+avatar_filename: avarat.jpg
 bio: ""
 interests:
   - Optimization
@@ -30,7 +28,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Master's Student in Mathematics and Computer Science
 highlight_name: true
+title: Michał Grudzień
 first_name: Alice
 email: ""
 ---
