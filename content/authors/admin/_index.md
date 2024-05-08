@@ -2,9 +2,11 @@
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Optimization
+  - Large Language Models
+  - Computer Vision
   - Reinforcement Learning
   - Federated Learning
+  - Optimization
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -35,4 +37,4 @@ title: Michał Grudzień
 first_name: Alice
 email: ""
 ---
-I am currently pursuing a master's degree in Mathematics and Computer Science at the University of Oxford. Prior to this, I successfully completed a degree in Mathematics and Statistics at the University of Oxford at the bachelor's level. I have a strong mathematical background and a keen interest in optimization for machine learning.
+I am currently a Master’s student in Mathematics and Computer Science at the University of Oxford, specializing in advanced topics such as computer vision, machine learning, and deep learning. My academic journey began with a Bachelor’s degree in Mathematics and Statistics, also from Oxford, where I ranked in the top 5 of my cohort. My current research endeavors focus on natural language processing, particularly the quantization of large language models. Additionally, I have engaged in reinforcement learning projects and maintain a keen interest in various aspects of generative AI.
